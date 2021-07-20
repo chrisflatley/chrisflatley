@@ -1,4 +1,4 @@
-Hi, I’m @chrisflatley work in [@commitd](https://github.com/@commitd).
+Hi, I’m @chrisflatley work in [@commitd](https://github.com/commitd).
 
 
 <!---
